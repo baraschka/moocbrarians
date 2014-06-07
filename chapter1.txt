@@ -26,7 +26,7 @@ Zurzeit existieren noch sehr wenige Daten über MOOCs, deren Evaluation zur Verb
 Durch die schnelle Entwicklung von MOOCs wurde das im Hinblick auf Wiederverwendung und Aktualisierung der Kurse sehr wichtige Thema Archivierung bisher vernachlässigt. Hier haben Bibliotheken die Möglichkeit, ein Archivierungskonzept für MOOCs  und die aus MOOCs resultierenden Arbeitsergebnisse von Studierenden aufzustellen. Der Handlungsbedarf in diesem Bereich ist groß, denn haben die Plattform-Anbieter erst eigene MOOC-Repositorien aufgebaut, befinden sich die von Hochschulen erstellten Materialien im Besitz externer Unternehmen – eine ähnliche Ausgangssituation wie bei der Zeitschriftenkrise. Daher sollten Bibliotheken zumindest das Recht der Langzeitarchivierung, wenn nicht sogar das zur Wiederverwendung für die von ihrer Hochschule erstellten MOOCs vertraglich festlegen. Bibliotheken könnten in diesem Zusammenhang sogar noch weiter gehen und ähnlich wie bei der Etablierung von Open-Access-Universitätsverlagen selbst Plattformbetreiber für MOOCs werden.
 
 ## 5. Fazit
-
+MOOCs sind ein junges Phänomen im Bereich der Hochschullehre und stellen in erster Linie kostenlose Online-Kurse dar, die ohne einen bestimmten Bildungsabschluss belegt werden können. MOOCs bergen sowohl große Chancen als auch hohe Risiken und werden daher stark diskutiert. Bibliotheken können und sollten daher versuchen, die weitere Entwicklung von MOOCs positiv zu beeinflussen. Dies betrifft in erster Linie das Umdenken von einem Geschäftsmodell hin zu Open Content und dem Angebot von MOOC-Kursen auf von Bibliotheken betriebenen Plattformen.
 
 
 

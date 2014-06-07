@@ -3,10 +3,10 @@
  author = {Schwartz, Meredith},
  year = {2013},
  title = {Massive Open Opportunity: Supporting MOOCs in public and academic libraries},
- url = {http://lj.libraryjournal.com/2013/05/library-services/massive-open-opportunity-supporting-moocs/#_},
+ url = {http://lj.libraryjournal.com/2013/05/library-services/massive-open-opportunity-supporting-moocs/#},
  urldate = {07.06.2014},
- journal = {Library Journal}
- comment =
+ journal = {Library Journal},
+ note = {sehr ausführlicher Artikel zu den Aufgaben wissenschaftlicher und öffentlicher Bibliotheken bezüglich MOOCs} 
 }
 
 @incollection{Schulmeister.2013,
@@ -17,7 +17,8 @@
  editor = {Schulmeister, Rolf},
  booktitle = {MOOCs - Massive Open Online Courses},
  year = {2013},
- address = {M{\"u}nster and Westf. [u. a.]}
+ address = {M{\"u}nster and Westf. [u. a.]},
+ note = {kritischer und ausführlicher Artikel mit interessanten Fakten und einer Historie der Geschäftsmodelle}
 }
 
 @incollection{vanTreeck.2013,
@@ -26,43 +27,44 @@
  url = {http://l3t.eu/homepage/das-buch/ebook-2013/kapitel/lesen/o/id/149},
  urldate = {07.06.2014},
  booktitle = {l3t' Lehrbuch f{\"u}r Lernen und Lehren mit Technologien},
- year = {2013}
+ year = {2013},
+ note = {Das Kapitel gibt einen konzentrierten und verständlichen Überblick über das Thema MOOCs und hat einen positiveren Grundton als der Artikel von Schulmeister. Relevante Seiten: 5 - 8}
 }
-
 
 @misc{Worthey.2013,
  author = {Worthey, Glen},
  year = {2013},
  title = {Webinar: Goodbye Cybrarians, hello Moocbrarians: News-Beitrag f{\"u}r Stanford University Libraries vom 15.05.2013},
  url = {http://library.stanford.edu/news/2013/05/webinar-goodbye-cybrarians-hello-moocbrarians},
- urldate = {07.06.2014}
+ urldate = {07.06.2014}, 
+ note = {Das Dokument ist lediglich die inhaltliche Beschreibung und Formulierung der Lernziele eines Seminars von John D. Shank und weist auf die Beziehung zwischen Cybrarian und MOOCbrarian hin.}
 }
-
 
 @misc{Wikipedia.2014,
  author = {Wikipedia},
  year = {2014},
  title = {Massive Open Online Course},
  url = {http://de.wikipedia.org/wiki/Massive_Open_Online_Course},
- urldate = {07.06.2014}
+ urldate = {07.06.2014}, 
+ note = {Wertvoll sind die Auflistung der Plattform-Anbieter, die Beschreibung der cMOOC und xMOOC-Formen sowie die weiterführenden Links zu MOOC-Suchmaschinen und dem MOOC-Nachrichtenmagazin "moocia"}
 }
-
 
 @book{Schulmeister.2013b,
  year = {2013},
  title = {MOOCs - Massive Open Online Courses: Offene Bildung oder Gesch{\"a}ftsmodell?},
  address = {M{\"u}nster and Westf. [u. a.]},
  publisher = {Waxmann},
- editor = {Schulmeister, Rolf}
+ editor = {Schulmeister, Rolf},
+ note = {Sammelwerk zum Artikel von Schulmeister - deckt das Thema MOOCs aktuell und umfassend ab}
 }
-
 
 @misc{Dictionary.com.2014,
  author = {Dictionary.com},
  year = {2014},
  title = {cybrarian},
  url = {http://dictionary.reference.com/browse/cybrarian},
- urldate = {07.06.2014}
+ urldate = {07.06.2014},
+ note = {Auf dieser Seite findet sich lediglich eine kurze Definition des Begriffes _Cybrarian_}
 }
 
 
@@ -71,7 +73,8 @@
  year = {2014},
  title = {Die Uners{\"a}ttlichen: Teil 2: Weblogeintrag vom 16.01.2014},
  url = {http://blog.buchmesse.de/2014/01/16/die-unersaettlichen-teil-2/},
- urldate = {07.06.2014}
+ urldate = {07.06.2014},
+ note = {}
 }
 
 
@@ -100,10 +103,12 @@
 
 
 @book{.2013,
- year = {2013},
+editor = {Ebner, Martin and Schön, Sandra},
+year = {2013},
  title = {l3t' Lehrbuch f{\"u}r Lernen und Lehren mit Technologien: Das E-Book 2013},
  url = {http://l3t.eu/homepage/das-buch/ebook-2013},
- urldate = {07.06.2013}
+ urldate = {07.06.2013},
+ note = {Sammelwerk zum Artikel von van Treeck et al.}
 }
 
 

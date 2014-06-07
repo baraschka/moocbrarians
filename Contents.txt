@@ -5,3 +5,4 @@ chapter3.txt
 literaturverzeichnis.txt
 literaturverzeichnis-2.txt
 literaturverzeichnis-3.txt
+ausarbeitung-moocbrarian.txt

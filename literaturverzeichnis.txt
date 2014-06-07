@@ -1,5 +1,4 @@
 # Literaturverzeichnis
-
 @article{Schwartz.2013,
  author = {Schwartz, Meredith},
  year = {2013},
@@ -7,6 +6,7 @@
  url = {http://lj.libraryjournal.com/2013/05/library-services/massive-open-opportunity-supporting-moocs/#_},
  urldate = {07.06.2014},
  journal = {Library Journal}
+ comment =
 }
 
 

@@ -1,3 +1,24 @@
 # Literaturverzeichnis
 
-Write here...
+@article{Schwartz.2013,
+ author = {Schwartz, Meredith},
+ year = {2013},
+ title = {Massive Open Opportunity: Supporting MOOCs in public and academic libraries},
+ url = {http://lj.libraryjournal.com/2013/05/library-services/massive-open-opportunity-supporting-moocs/#_},
+ urldate = {07.06.2014},
+ journal = {Library Journal}
+}
+
+
+@incollection{Schulmeister.2013,
+ author = {Schulmeister, Rolf},
+ title = {Der Beginn und das Ende von OPEN: Chronologie der MOOC-Entwicklung},
+ pages = {17--59},
+ publisher = {Waxmann},
+ editor = {Schulmeister, Rolf},
+ booktitle = {MOOCs - Massive Open Online Courses},
+ year = {2013},
+ address = {M{\"u}nster and Westf. [u. a.]}
+}
+
+

@@ -109,6 +109,15 @@ year = {2013},
  note = {Sammelwerk zum Artikel von van Treeck et al.}
 }
 
+@misc{Umst{\"a}tter.2014,
+author = {Umstätter, Walther},
+year = {2014},
+title = {Studie zur Nichtnutzung von Bibliotheken},
+url = {http://www.ub.uni-dortmund.de/listen/inetbib/msg52221.html},
+urldate = {07.06.2014},
+note = {Beitrag in der Inetbib, in dem der Begriff _MOOCbrarian_ vorkommt}
+}
+
 
 
 

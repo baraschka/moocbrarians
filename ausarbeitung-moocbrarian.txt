@@ -1,6 +1,5 @@
-# Ausarbeitung MOOCbrarian
+# Ausarbeitung zum Thema "MOOCbrarian"
 
-# MOOCbrarians
 ## **1. Einleitung**
 Die vorliegende Arbeit geht zunächst näher auf die Bedeutung der einzelnen Bestandteile des Akronym MOOCs ein und behandelt in diesem Zusammenhang Entstehung, Formen, Anbieter und mögliche Geschäftsmodelle ebenso wie Nutzen und Kritikpunkte von MOOCs. Aufgrund des begrenzten Umfangs der Arbeit geschieht dies in Grundzügen, die einen Überblick über das Thema ermöglichen sollen. In einem nächsten Schritt wird die Herkunft und aktuelle Verwendung des Begriffes _MOOCbrarian_ untersucht. Ziel der Arbeit ist die Klärung der Frage, welche Aufgaben Bibliothekare im Zusammenhang mit MOOCs übernehmen könnten. Die Arbeit schließt mit einem Fazit.
 

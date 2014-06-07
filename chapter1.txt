@@ -23,6 +23,12 @@ Bezüglich der Betreuung der Kurse stellt sich die Frage, inwieweit Bibliotheken
 
 Zurzeit existieren noch sehr wenige Daten über MOOCs, deren Evaluation zur Verbesserung der Kurse beitragen könnte. Die existierenden Daten befinden sich zum Teil im Besitz der Plattform-Anbieter. Bibliotheken als Anbieter von Daten-Repositorien könnten z. B.  eine Fallstudie zu diesem Thema durchführen.
 
+Durch die schnelle Entwicklung von MOOCs wurde das im Hinblick auf Wiederverwendung und Aktualisierung der Kurse sehr wichtige Thema Archivierung bisher vernachlässigt. Hier haben Bibliotheken die Möglichkeit, ein Archivierungskonzept für MOOCs  und die aus MOOCs resultierenden Arbeitsergebnisse von Studierenden aufzustellen. Der Handlungsbedarf in diesem Bereich ist groß, denn haben die Plattform-Anbieter erst eigene MOOC-Repositorien aufgebaut, befinden sich die von Hochschulen erstellten Materialien im Besitz externer Unternehmen – eine ähnliche Ausgangssituation wie bei der Zeitschriftenkrise. Daher sollten Bibliotheken zumindest das Recht der Langzeitarchivierung, wenn nicht sogar das zur Wiederverwendung für die von ihrer Hochschule erstellten MOOCs vertraglich festlegen. Bibliotheken könnten in diesem Zusammenhang sogar noch weiter gehen und ähnlich wie bei der Etablierung von Open-Access-Universitätsverlagen selbst Plattformbetreiber für MOOCs werden.
+
+## 5. Fazit
+
+
+
 
 
 -

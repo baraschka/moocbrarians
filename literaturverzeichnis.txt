@@ -64,9 +64,8 @@
  title = {cybrarian},
  url = {http://dictionary.reference.com/browse/cybrarian},
  urldate = {07.06.2014},
- note = {Auf dieser Seite findet sich lediglich eine kurze Definition des Begriffes _Cybrarian_}
+ note = {Auf dieser Seite findet sich lediglich eine kurze Definition des Begriffes _Cybrarian_.}
 }
-
 
 @misc{Anders.2014,
  author = {Anders, Hans},
@@ -74,9 +73,8 @@
  title = {Die Uners{\"a}ttlichen: Teil 2: Weblogeintrag vom 16.01.2014},
  url = {http://blog.buchmesse.de/2014/01/16/die-unersaettlichen-teil-2/},
  urldate = {07.06.2014},
- note = {}
+ note = {Der Artikel stellt einen kurzen Konferenzbericht mit dem Fokus auf MOOCs im Zusammenhang mit Bibliotheken dar, in dem der Begriff _MOOCbrarian_ auftaucht.}
 }
-
 
 @book{Hohenstein.2012,
  year = {2012},
@@ -84,9 +82,9 @@
  address = {K{\"o}ln},
  edition = {42. Erg.-Lfg.},
  publisher = {Kluwer},
- editor = {Hohenstein, Andreas and Wilbers, Karl}
+ editor = {Hohenstein, Andreas and Wilbers, Karl},
+ note = {Loseblattsammlung zum Artikel von Robes}
 }
-
 
 @incollection{Robes.2012,
  author = {Robes, Jochen},
@@ -98,9 +96,9 @@
  editor = {Hohenstein, Andreas and Wilbers, Karl},
  booktitle = {Handbuch E-Learning},
  year = {2012},
- address = {K{\"o}ln}
+ address = {K{\"o}ln}, 
+ note = {sehr ausführlicher Artikel mit didaktischem Fokus}
 }
-
 
 @book{.2013,
 editor = {Ebner, Martin and Schön, Sandra},
